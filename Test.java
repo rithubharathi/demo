@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("Enter the String");
 		String s = sc.next();
 		System.out.println(s);
+		System.out.println("Printed the string");
 	}
 }
